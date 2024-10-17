@@ -10,7 +10,7 @@ raw_weather_collection = db['raw_weather_data']  # Collection for real-time weat
 alerts_collection = db['alerts']  # Collection to store triggered alerts
 
 # OpenWeatherMap API Key
-API_KEY = "febe2e04dd38c33de33887afdee24f7f"
+API_KEY = "ENTER_YOUR_API_KEY"
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={API_KEY}"
 
 # List of cities
