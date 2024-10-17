@@ -35,7 +35,7 @@ This is a real-time weather monitoring application that fetches data from the Op
 ##Initialize the Git repository:
 
   git init
-  git remote add origin https://github.com/yourusername/weather-monitoring-app.git
+  git remote add origin https://github.com/jaipal-reddy-p/weather-monitoring-app.git
 
 ##How to Run the Application
 1. Run the Weather Data Fetcher
