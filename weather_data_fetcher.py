@@ -10,7 +10,7 @@ raw_weather_collection = db['raw_weather_data']  # Collection for real-time weat
 daily_summary_collection = db['daily_weather_summary']  # Collection for daily summaries
 
 # OpenWeatherMap API Key (replace with your actual key)
-API_KEY = "febe2e04dd38c33de33887afdee24f7f"
+API_KEY = "ENTER_YOUR_API_KEY"
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={API_KEY}"
 
 # List of Indian cities (with their corresponding OpenWeatherMap city names or IDs)
